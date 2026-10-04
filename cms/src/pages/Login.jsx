@@ -81,7 +81,7 @@ function Login() {
 
             <input
               type="email"
-              placeholder="admin@issacmovie.com"
+              placeholder="Email"
               className="w-full px-3 py-2 bg-neutral-800 text-white text-sm"
               onChange={(e) => setEmail(e.target.value)}
             />
